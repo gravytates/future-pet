@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+  color: #16A54A;
+  font-family:fantasy;
+}
+
+body {
+  font-family:serif;
+}
+
+a {
+  color: #A55D16;
+}
+
+img {
+  display:block;
+  margin: auto;
+  height: 70%;
+  width:30%;
+}
