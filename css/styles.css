@@ -6,6 +6,10 @@ h1 {
 
 body {
   font-family:serif;
+  background-color: #C1F499;
+  text-align: auto;
+  list-style-position: inside;
+  font-size: 20px;
 }
 
 a {
@@ -17,4 +21,23 @@ img {
   margin: auto;
   height: 70%;
   width:30%;
+  border-radius: 25px;
+
+}
+
+.toys {
+  height: 10%;
+  width: 80%;
+  border-radius: 25px;
+}
+
+.chuck {
+  -webkit-transform: rotate(90deg);
+  height: 30%;
+  width: 45%;
+  margin: auto;
+}
+
+.index {
+  text-align: center;
 }
